@@ -13,5 +13,5 @@
 - style.css - файл со стилями страницы (задаются тени, анимации, цвета и etc);
 - html_pages - содержит страницы с html разметкой страницы оборудования;
 
-## Screenshots
+## Demonstartion
 ![Стартовая страничка](/src/images/dboard_demo.gif "Optional Title")
